@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2025-12-30T00:00:00Z",
+  "updated_at": "2025-12-30T10:45:00Z",
   "packs": [
     {
       "id": "league",
@@ -13,20 +13,32 @@
       "maintainers": ["@Lucidiac"],
       "latest": {
         "version": "0.1.0",
-        "released_at": "2025-12-30T00:00:00Z",
+        "released_at": "2025-12-30T10:44:57Z",
         "min_app_version": "0.1.0",
         "artifacts": {
           "darwin-arm64": {
             "daemon_url": "https://github.com/Lucidiac/pack-league/releases/download/v0.1.0/daemon-darwin-arm64",
-            "daemon_sha256": "",
+            "daemon_sha256": "24075a52bb32f7f4fc63aa7dd6345b086484885c85d66099dac15342fb08aa5b",
             "frontend_url": "https://github.com/Lucidiac/pack-league/releases/download/v0.1.0/frontend.js",
-            "frontend_sha256": ""
+            "frontend_sha256": "26c9c2f447c901d20c51ae56e7c783f28131ce80a504f575bcc2be87d45d6547"
           },
           "darwin-x64": {
             "daemon_url": "https://github.com/Lucidiac/pack-league/releases/download/v0.1.0/daemon-darwin-x64",
-            "daemon_sha256": "",
+            "daemon_sha256": "1e9d2ccfba7f01437fa74974b0e68af127a7053b97e2eb525d621799025bdcfc",
             "frontend_url": "https://github.com/Lucidiac/pack-league/releases/download/v0.1.0/frontend.js",
-            "frontend_sha256": ""
+            "frontend_sha256": "26c9c2f447c901d20c51ae56e7c783f28131ce80a504f575bcc2be87d45d6547"
+          },
+          "linux-x64": {
+            "daemon_url": "https://github.com/Lucidiac/pack-league/releases/download/v0.1.0/daemon-linux-x64",
+            "daemon_sha256": "b1968d81ae3ae8328015bdc15b9fadf992c522b54ab7fed3e4061501182dd006",
+            "frontend_url": "https://github.com/Lucidiac/pack-league/releases/download/v0.1.0/frontend.js",
+            "frontend_sha256": "26c9c2f447c901d20c51ae56e7c783f28131ce80a504f575bcc2be87d45d6547"
+          },
+          "win32-x64": {
+            "daemon_url": "https://github.com/Lucidiac/pack-league/releases/download/v0.1.0/daemon-win32-x64.exe",
+            "daemon_sha256": "7fca01a386a254aaf983cf58e65ae3f1a4f72c94872b3c5c40c320e51d4e8311",
+            "frontend_url": "https://github.com/Lucidiac/pack-league/releases/download/v0.1.0/frontend.js",
+            "frontend_sha256": "26c9c2f447c901d20c51ae56e7c783f28131ce80a504f575bcc2be87d45d6547"
           }
         }
       },
