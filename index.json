@@ -11,10 +11,6 @@
       "icon_url": "https://raw.githubusercontent.com/Lucidiac/pack-league/main/icon.png",
       "repo": "github.com/Lucidiac/pack-league",
       "maintainers": ["@Lucidiac"],
-      "detection": {
-        "processes": ["LeagueClientUx", "LeagueClient", "League of Legends"],
-        "interval_secs": 5
-      },
       "latest": {
         "version": "0.1.0",
         "released_at": "2025-12-30T10:44:57Z",
