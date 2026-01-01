@@ -10,6 +10,7 @@
       "description": "Full integration with League of Legends client and in-game events",
       "icon_url": "https://raw.githubusercontent.com/Lucidiac/pack-league/main/icon.png",
       "repo_url": "https://github.com/Lucidiac/pack-league",
+      "version": "0.1.0",
       "maintainers": ["@Lucidiac"],
       "artifacts": {
         "checksums_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/checksums.txt",
