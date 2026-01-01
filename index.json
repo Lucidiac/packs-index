@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-01-01T13:20:00Z",
+  "updated_at": "2026-01-01T17:51:47Z",
   "packs": [
     {
       "id": "league",
@@ -10,8 +10,10 @@
       "description": "Full integration with League of Legends client and in-game events",
       "icon_url": "https://raw.githubusercontent.com/Lucidiac/pack-league/main/icon.png",
       "repo_url": "https://github.com/Lucidiac/pack-league",
-      "version": "0.1.0",
-      "maintainers": ["@Lucidiac"],
+      "version": "0.1.2",
+      "maintainers": [
+        "@Lucidiac"
+      ],
       "artifacts": {
         "checksums_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/checksums.txt",
         "darwin-arm64": {
@@ -32,8 +34,15 @@
         }
       },
       "min_app_version": "0.1.0",
-      "categories": ["moba", "riot"],
-      "features": ["live_events", "match_history", "clip_triggers"]
+      "categories": [
+        "moba",
+        "riot"
+      ],
+      "features": [
+        "live_events",
+        "match_history",
+        "clip_triggers"
+      ]
     }
   ]
 }
