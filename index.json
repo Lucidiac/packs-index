@@ -8,29 +8,29 @@
       "name": "League of Legends",
       "short_name": "LoL",
       "description": "Full integration with League of Legends client and in-game events",
-      "icon_url": "https://raw.githubusercontent.com/Lucidiac/pack-league/main/icon.png",
-      "repo_url": "https://github.com/Lucidiac/pack-league",
+      "icon_url": "https://raw.githubusercontent.com/clip-companion/pack-league/main/icon.png",
+      "repo_url": "https://github.com/clip-companion/pack-league",
       "version": "0.1.4",
       "maintainers": [
-        "@Lucidiac"
+        "@clip-companion"
       ],
       "artifacts": {
-        "checksums_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/checksums.txt",
+        "checksums_url": "https://github.com/clip-companion/pack-league/releases/latest/download/checksums.txt",
         "darwin-arm64": {
-          "daemon_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/daemon-darwin-arm64",
-          "frontend_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/frontend.js"
+          "daemon_url": "https://github.com/clip-companion/pack-league/releases/latest/download/daemon-darwin-arm64",
+          "frontend_url": "https://github.com/clip-companion/pack-league/releases/latest/download/frontend.js"
         },
         "darwin-x64": {
-          "daemon_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/daemon-darwin-x64",
-          "frontend_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/frontend.js"
+          "daemon_url": "https://github.com/clip-companion/pack-league/releases/latest/download/daemon-darwin-x64",
+          "frontend_url": "https://github.com/clip-companion/pack-league/releases/latest/download/frontend.js"
         },
         "linux-x64": {
-          "daemon_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/daemon-linux-x64",
-          "frontend_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/frontend.js"
+          "daemon_url": "https://github.com/clip-companion/pack-league/releases/latest/download/daemon-linux-x64",
+          "frontend_url": "https://github.com/clip-companion/pack-league/releases/latest/download/frontend.js"
         },
         "win32-x64": {
-          "daemon_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/daemon-win32-x64.exe",
-          "frontend_url": "https://github.com/Lucidiac/pack-league/releases/latest/download/frontend.js"
+          "daemon_url": "https://github.com/clip-companion/pack-league/releases/latest/download/daemon-win32-x64.exe",
+          "frontend_url": "https://github.com/clip-companion/pack-league/releases/latest/download/frontend.js"
         }
       },
       "min_app_version": "0.1.0",

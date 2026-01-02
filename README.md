@@ -8,7 +8,7 @@ The companion app fetches `index.json` from this repository to discover availabl
 
 ## Adding a New Pack
 
-1. Create a new repository for your game pack (see [pack-league](https://github.com/Lucidiac/pack-league) as a template)
+1. Create a new repository for your game pack (see [pack-league](https://github.com/clip-companion/pack-league) as a template)
 2. Set up GitHub Actions to build and release your pack
 3. Submit a PR to this repository adding your pack to `index.json`
 
