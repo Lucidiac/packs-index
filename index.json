@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-01-08T15:37:17Z",
+  "updated_at": "2026-01-10T19:06:10Z",
   "packs": [
     {
       "id": "league",
@@ -10,7 +10,7 @@
       "description": "Full integration with League of Legends client and in-game events",
       "icon_url": "https://raw.githubusercontent.com/clip-companion/pack-league/main/icon.png",
       "repo_url": "https://github.com/clip-companion/pack-league",
-      "version": "0.1.12",
+      "version": "0.1.13",
       "maintainers": [
         "@clip-companion"
       ],
